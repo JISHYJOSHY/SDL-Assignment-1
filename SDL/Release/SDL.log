@@ -1,0 +1,21 @@
+﻿  BossA.cpp
+c:\users\joshua\desktop\misc\university work\sdl\sdl\ship.h(19): warning C4100: 'bullets': unreferenced formal parameter
+c:\users\joshua\desktop\misc\university work\sdl\sdl\bossa.cpp(5): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\joshua\desktop\misc\university work\sdl\sdl\bossa.cpp(6): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\joshua\desktop\misc\university work\sdl\sdl\bossa.cpp(11): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\joshua\desktop\misc\university work\sdl\sdl\bossa.cpp(3): warning C4100: 'shipType': unreferenced formal parameter
+  Main.cpp
+c:\users\joshua\desktop\misc\university work\sdl\sdl\ship.h(19): warning C4100: 'bullets': unreferenced formal parameter
+c:\users\joshua\desktop\misc\university work\sdl\sdl\main.cpp(49): warning C4100: 'argv': unreferenced formal parameter
+c:\users\joshua\desktop\misc\university work\sdl\sdl\main.cpp(49): warning C4100: 'argc': unreferenced formal parameter
+  Player.cpp
+c:\users\joshua\desktop\misc\university work\sdl\sdl\ship.h(19): warning C4100: 'bullets': unreferenced formal parameter
+c:\users\joshua\desktop\misc\university work\sdl\sdl\player.cpp(136): warning C4458: declaration of 'pos' hides class member
+  c:\users\joshua\desktop\misc\university work\sdl\sdl\ship.h(54): note: see declaration of 'Ship::pos'
+  Generating code
+c:\users\joshua\desktop\misc\university work\sdl\sdl\main.cpp(625): warning C4701: potentially uninitialized local variable 'ticks' used
+  2 of 383 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SDL.vcxproj -> C:\Users\Joshua\Desktop\Misc\University Work\SDL\Release\SDL.exe
